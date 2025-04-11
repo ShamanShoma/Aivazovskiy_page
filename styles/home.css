@@ -1,5 +1,6 @@
 .home {
   text-align: center;
+  padding-bottom: 70px;
 }
 
 .home-title {
@@ -26,6 +27,7 @@
 
 @media (max-width: 480px) {
   .home {
+    padding-bottom: 78px;
     text-align: left;
   }
 
