@@ -1,0 +1,44 @@
+.history {
+  padding: 65px 20px 70px;
+  text-align: center;
+}
+
+.history-title {
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 40px;
+  margin-bottom: 72px;
+}
+
+.history-img {
+  width: 100%;
+  max-width: 950px;
+  height: 655px;
+  object-fit: cover;
+}
+
+.history-description {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21px;
+  margin-top: 30px;
+}
+
+@media (max-width: 480px) {
+  .history {
+    padding-top: 50px;
+  }
+
+  .history-title {
+    margin-bottom: 59px;
+  }
+
+  .history-img {
+    height: 479px;
+  }
+
+  .history-description {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}
