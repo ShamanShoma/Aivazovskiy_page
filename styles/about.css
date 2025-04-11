@@ -1,5 +1,6 @@
 .about {
-  padding: 56px 20px 98px;
+  padding-top: 56px;
+  padding-bottom: 98px;
   background-color: var(--bg-main-grey);
   text-align: center;
 }
